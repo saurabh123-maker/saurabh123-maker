@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurabh Kumar Jha, Currently in Final year of B.tech in CSE from RCCIIT Kolkata.
 - 👀 I’m interested in inventing of new idea and new technology like Artificial Intelligence and Machine Learning.
-- 🌱 I’m currently working on Full Stack Java.
+- 🌱 I’m currently working on Full Stack Java Development.
 - 💞️ I’m looking for an experience in my favourite field And want to explore my skills for future.
 - 📫 Reach me out at...  www.linkedin.com/in/saurabh-kumar-jha-b623951b0
 
